@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652854888832",
+    "project_id": "ingsoft-1144b",
+    "storage_bucket": "ingsoft-1144b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652854888832:android:bfd644784069267bcbd965",
+        "android_client_info": {
+          "package_name": "com.mycompany.ingsoft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQQjkIf4pJU1mzLcg3zdf9YUk56RLDU0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
